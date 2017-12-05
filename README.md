@@ -11,7 +11,14 @@ Guardian of Andra: Fragments of Time é um jogo de ação e aventura com element
 
 # Imagens do jogo:
 
-Inserir imagens do jogo.
+![](https://github.com/pucsp-jogosdigitais/tcc2017-guardian_of_andra/blob/master/Goa%20Screenshots/Menu.jpg)
+![](https://github.com/pucsp-jogosdigitais/tcc2017-guardian_of_andra/blob/master/Goa%20Screenshots/Loading.png)
+![](https://github.com/pucsp-jogosdigitais/tcc2017-guardian_of_andra/blob/master/Goa%20Screenshots/Gameplay1.jpg)
+![](https://github.com/pucsp-jogosdigitais/tcc2017-guardian_of_andra/blob/master/Goa%20Screenshots/Gameplay14.jpg)
+![](https://github.com/pucsp-jogosdigitais/tcc2017-guardian_of_andra/blob/master/Goa%20Screenshots/Gameplay5.png)
+![](https://github.com/pucsp-jogosdigitais/tcc2017-guardian_of_andra/blob/master/Goa%20Screenshots/Gameplay10.jpg)
+![](https://github.com/pucsp-jogosdigitais/tcc2017-guardian_of_andra/blob/master/Goa%20Screenshots/Flux.jpg)
+![](https://github.com/pucsp-jogosdigitais/tcc2017-guardian_of_andra/blob/master/Goa%20Screenshots/Flux2.jpg)
 
 # Informações Adicionais:
 
