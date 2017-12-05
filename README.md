@@ -1,8 +1,8 @@
 # Guardian of Andra
 
-Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
+Guardian of Andra: Fragments of Time é um jogo de ação e aventura com elementos de RPG, desenvolvido para Windows, Mac e Linux. Você é Erinn, um jovem guardião de Kaiali, uma pequena ilha pertencente ao arquipélago de Andra. Zed, líder dos guardiões e seu irmão, sumiu, e você parte em uma jornada por toda Andra para encontrá-lo
 
-# Nome compledo dos integrantes do projeto:
+# Nome completo dos integrantes do projeto:
 
 * Douglas Lima R.A.00167362
 * Ligia Assis R.A.00159220
@@ -13,8 +13,6 @@ Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre 
 
 Inserir imagens do jogo.
 
-# Informações de como compilar o jogo:
+# Informações Adicionais:
 
-Descriver aqui quais são as ferramentas necessárias para alterar e compilar o jogo a partir do código fonte.
-
-**OBSERVAÇÃO: NO REPOSITÓRIO DEVE EXISTIR TODOS OS ARQUIVOS DESENVOLVIDOS PARA O PROJETO, INCLUINDO ARTES, MODELOS 3D ORIGINAIS, ETC..**
+Link do projeto no Itch.IO:
