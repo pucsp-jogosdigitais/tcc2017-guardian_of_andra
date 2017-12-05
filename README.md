@@ -1,13 +1,13 @@
-# Nome do projeto
+# Guardian of Andra
 
 Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
 
 # Nome compledo dos integrantes do projeto:
 
-* Nome 1
-* Nome 2
-* Nome 3
-* Nome 4
+* Douglas Lima R.A.00167362
+* Ligia Assis R.A.00159220
+* Renan Dores R.A.00166115
+* Renato Biasoli R.A.00167722
 
 # Imagens do jogo:
 
