@@ -24,4 +24,5 @@ Guardian of Andra: Fragments of Time é um jogo de ação e aventura com element
 
 Link do projeto no Itch.IO:
 https://ailaghast.itch.io/guardian-of-andra/download/JL_F2Fv_Wk6Ik0MlCXbFMuW07Zxjfc8q_4Lmb6T7
-Obs.: O acesso ao itch.io esta restristo enquanto o jogo nao for localizado.
+
+Obs: O acesso ao itch.io esta restristo enquanto o jogo nao for localizado.
